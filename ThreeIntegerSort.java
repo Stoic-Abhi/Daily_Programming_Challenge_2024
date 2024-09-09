@@ -1,3 +1,4 @@
+/*Sort an array that can take input as 0,1 and 2 in O(n) time complexity*/
 import java.util.Scanner;
 public class ThreeIntegerSort {
     // Function to sort the array
